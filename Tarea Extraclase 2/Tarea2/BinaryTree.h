@@ -26,4 +26,4 @@ public:
     void deleteNode(int val);
 };
 
-#endif //BINARY_TREE_H
+#endif // BINARY_TREE_H

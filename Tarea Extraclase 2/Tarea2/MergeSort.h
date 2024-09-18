@@ -4,4 +4,4 @@
 void mergeSort(int arr[], int l, int r);
 void printArray(int arr[], int size);
 
-#endif //MERGE_SORT_H
+#endif // MERGE_SORT_H

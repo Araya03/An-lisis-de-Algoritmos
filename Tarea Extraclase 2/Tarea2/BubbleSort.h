@@ -4,4 +4,4 @@
 void bubbleSort(int array[], int size);
 void printArray(int array[], int size);
 
-#endif //BUBBLE_SORT_H
+#endif // BUBBLE_SORT_H

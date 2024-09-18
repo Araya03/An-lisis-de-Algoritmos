@@ -3,4 +3,4 @@
 
 void printArray(int array[], int size);
 
-#endif //UTILS_H
+#endif // UTILS_H

@@ -1,0 +1,11 @@
+release/BinaryTree.o
+release/BubbleSort.o
+release/LinkedList.o
+release/MergeSort.o
+release/SelectionSort.o
+release/chartwindow.o
+release/main.o
+release/mainwindow.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_chartwindow.o
+release/moc_mainwindow.o

@@ -18,4 +18,4 @@ public:
     void deleteNode(int val);
 };
 
-#endif //LINKED_LIST_H
+#endif // LINKED_LIST_H

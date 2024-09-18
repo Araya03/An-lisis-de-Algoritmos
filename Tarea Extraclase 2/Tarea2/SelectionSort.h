@@ -4,4 +4,4 @@
 void selectionSort(int array[], int size);
 void printArray(int array[], int size);
 
-#endif //SELECTION_SORT_H
+#endif // SELECTION_SORT_H
