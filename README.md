@@ -20,6 +20,6 @@ Sin embargo, para observar el comportamiento de manera gráfica (tiempo de ejecu
 
    Esto creará diferentes ventanas donde se muestran gráficas con el mejor caso, peor caso y caso promedio de cada algoritmo y estructura. Cada uno fue comparado con el caso teórico correspondiente.
 
-Un ejemplo de las gráficas realizadas:
+Un ejemplo de las gráficas realizadas es el siguiente:
 
 ![Screenshot (317)](https://github.com/user-attachments/assets/22081adc-6e80-4817-b337-3aba3b9f6777)
