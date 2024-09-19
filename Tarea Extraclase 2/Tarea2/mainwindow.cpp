@@ -31,7 +31,7 @@ MainWindow::MainWindow(QWidget *parent) :
         chart->addSeries(theoreticalSeries);
 
         series->setName(caseType);
-        theoreticalSeries->setName("Teórico");
+        theoreticalSeries->setName("Caso Teórico");
         chart->setTitle(title);
 
         QValueAxis *axisX = new QValueAxis();
