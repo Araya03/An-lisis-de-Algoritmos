@@ -13,6 +13,9 @@ Sin embargo, para observar el comportamiento de manera gráfica (tiempo de ejecu
 
 1. Abrir la carpeta "Tarea2" en Qt Creator.
 ![1](https://github.com/user-attachments/assets/dbc56c28-0892-4c85-a233-a055a5f3d544)
+
 2. Ejecutar el código.
+![2](https://github.com/user-attachments/assets/ee25fa2a-f117-4c19-9f1e-9d576557d059)
+
 
    Esto creará diferentes ventanas donde se muestran gráficas con el mejor caso, peor caso y caso promedio de cada algoritmo y estructura. Cada uno fue comparado con el caso teórico correspondiente.
