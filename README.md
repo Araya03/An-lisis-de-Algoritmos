@@ -4,8 +4,8 @@ La finalidad de este proyecto es comparar los tiempos de ejecución empíricos c
 
 Los archivos de código que se encuentran en la carpeta "Tarea Extraclase 2" son la implementación básica de BubbleSort, SelectionSort, MergeSort, LinkedList y Binary Search Tree. Además, se realizó un archivo llamado "pruebas.cpp" que contiene algunas comprobaciones del funcionamiento del código y se ejecuta de la siguiente manera:
 
-1. En la terminal se escribe "g++ -o <NOMBRE DESEADO> pruebas.cpp BinaryTree.cpp BubbleSort.cpp LinkedList.cpp MergeSort.cpp SelectionSort.cpp Utils.cpp".
-2. Luego se debe escribir "./<NOMBRE SELECCIONADO ANTERIORMENTE>".
+1. En la terminal se escribe "g++ -o -NOMBRE DESEADO- pruebas.cpp BinaryTree.cpp BubbleSort.cpp LinkedList.cpp MergeSort.cpp SelectionSort.cpp Utils.cpp".
+2. Luego se debe escribir "./-NOMBRE SELECCIONADO ANTERIORMENTE-".
 
    Esto ejecutará el archivo e imprimirá en consola la información recolectado.
 
