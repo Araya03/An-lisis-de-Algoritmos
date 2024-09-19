@@ -7,7 +7,7 @@ Los archivos de código que se encuentran en la carpeta "Tarea Extraclase 2" son
 1. En la terminal se escribe "g++ -o -NOMBRE DESEADO- pruebas.cpp BinaryTree.cpp BubbleSort.cpp LinkedList.cpp MergeSort.cpp SelectionSort.cpp Utils.cpp".
 2. Luego se debe escribir "./-NOMBRE SELECCIONADO ANTERIORMENTE-".
 
-   Esto ejecutará el archivo e imprimirá en consola la información recolectada.
+   Esto ejecutará el archivo y mostrará en consola la información recolectada.
 
 Sin embargo, para observar el comportamiento de manera gráfica (tiempo de ejecución en función de la cantidad de elementos) de los diferentes algoritmos y estructuras de datos, se deben seguir los siguientes pasos:
 
