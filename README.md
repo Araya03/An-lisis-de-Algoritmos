@@ -23,3 +23,6 @@ Sin embargo, para observar el comportamiento de manera gráfica (tiempo de ejecu
 Un ejemplo de las gráficas realizadas es el siguiente:
 
 ![Screenshot (317)](https://github.com/user-attachments/assets/22081adc-6e80-4817-b337-3aba3b9f6777)
+
+
+El archivo "test.cpp" que se encuentra dentro de la carpeta "Tarea2" fue creado para realizar las pruebas de mejor, peor y caso promedio que se encuentran graficadas. Además, contiene el valor teórico de cada caso.
