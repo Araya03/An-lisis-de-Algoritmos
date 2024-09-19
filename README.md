@@ -14,4 +14,4 @@ Sin embargo, para observar el comportamiento (tiempo de ejecución en función d
 1. Abrir la carpeta "Tarea2" en Qt Creator.
 2. Ejecutar el código.
 
-   Esto creará diferentes ventanas donde se muestran gráficas con el mejor caso, peor caso y caso promedio de cada algoritmo y estructura, en comparación con el caso teórico.
+   Esto creará diferentes ventanas donde se muestran gráficas con el mejor caso, peor caso y caso promedio de cada algoritmo y estructura. Cada caso fue comparado con el caso teórico.
