@@ -26,4 +26,4 @@ Un ejemplo de las gráficas realizadas es el siguiente:
 
 
 
-El archivo "test.cpp" que se encuentra dentro de la carpeta "Tarea2" fue creado para realizar las pruebas de mejor, peor y caso promedio que se encuentran graficadas. Además, contiene el valor teórico de cada caso.
+El archivo "test.cpp" que se encuentra dentro de la carpeta "Tarea2" fue creado con el fin de realizar las pruebas de mejor, peor y caso promedio que se encuentran graficadas. Además, contiene el valor teórico de cada caso.
