@@ -1,6 +1,6 @@
 # Analisis-de-Algoritmos
 
-La finalidad de este proyecto es comparar los tiempos de ejecución empíricos con respecto a los tiempos de ejecución teóricos en las operaciones básicas de estructuras de datos y algoritmos de ordenamiento.
+La finalidad de esta tarea es comparar los tiempos de ejecución empíricos con respecto a los tiempos de ejecución teóricos en las operaciones básicas de estructuras de datos y algoritmos de ordenamiento.
 
 Los archivos de código que se encuentran en la carpeta "Tarea Extraclase 2" son la implementación básica de BubbleSort, SelectionSort, MergeSort, LinkedList y Binary Search Tree. Además, se realizó un archivo llamado "pruebas.cpp" que contiene algunas comprobaciones del funcionamiento del código y se ejecuta de la siguiente manera:
 
