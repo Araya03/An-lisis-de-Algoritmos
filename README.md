@@ -9,7 +9,7 @@ Los archivos de código que se encuentran en la carpeta "Tarea Extraclase 2" son
 
    Esto ejecutará el archivo e imprimirá en consola la información recolectada.
 
-Sin embargo, para observar el comportamiento (tiempo de ejecución en función de la cantidad de datos) de los diferentes algoritmos y estructuras de datos en comparación con el valor teórico, se deben seguir los siguientes pasos:
+Sin embargo, para observar el comportamiento (tiempo de ejecución en función de la cantidad de datos) de los diferentes algoritmos y estructuras en comparación con el valor teórico correspondiente, se deben seguir los siguientes pasos:
 
 1. Abrir la carpeta "Tarea2" en Qt Creator.
 2. Ejecutar el código.
